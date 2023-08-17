@@ -39,6 +39,9 @@ Cool fake tools using `Python`
 * ```
   apt install git
   ```
+* ```
+  pip install pycryptodome
+  ```
    
 ###
 * ```
