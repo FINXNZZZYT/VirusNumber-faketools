@@ -90,18 +90,19 @@ This project is [GNU General Public License v3.0](https://github.com/FINXNZZZYT/
 
 
 
-### [Youtube](https://github.com/FINXNZZZYT) <a href="https://www.youtube.com/@FINXNZZZYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="finxnzzzyt" height="30" width="40" /></a>
+> ### [Youtube](https://github.com/FINXNZZZYT) <a href="https://www.youtube.com/@FINXNZZZYT" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="finxnzzzyt" height="30" width="40" /></a>
 
 ---
-###
-###
-
-<link href='/...../css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
-<link href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
-Made with 💞<svg height="20" viewBox="0 0 24 24" width="20"><path d="M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z" fill="#B71C1C"></path></svg> Powered by Python<svg height="20" viewBox="0 0 24 24" width="20"><path d="M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z" fill="#B71C1C"></path></svg>
+> *thx.*
+---
 
 ###
 
 ```
   
   ```
+
+
+<link href='/...../css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+<link href='//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet' type='text/css'/>
+Made with 💞<svg height="20" viewBox="0 0 24 24" width="20"><path d="M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z" fill="#B71C1C"></path></svg> Powered by Python<svg height="20" viewBox="0 0 24 24" width="20"><path d="M12,21.35L10.55,20.03C5.4,15.36 2,12.27 2,8.5C2,5.41 4.42,3 7.5,3C9.24,3 10.91,3.81 12,5.08C13.09,3.81 14.76,3 16.5,3C19.58,3 22,5.41 22,8.5C22,12.27 18.6,15.36 13.45,20.03L12,21.35Z" fill="#B71C1C"></path></svg>
